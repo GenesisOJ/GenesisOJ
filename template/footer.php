@@ -1,1 +1,1 @@
-Copyright(C) GenesisOJ 2020-2020
+                                                Copyright(C) GenesisOJ 2020-2020
