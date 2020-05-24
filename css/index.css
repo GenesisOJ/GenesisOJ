@@ -1,0 +1,12 @@
+#topBar {
+    position:absolute;
+    top: 2px;
+    left: 0px;
+    height: 26px;
+    width: 100%;
+    border-bottom: 1px solid gray;
+    -webkit-box-shadow: 1px 0px 2px #888;
+    box-shadow: 1px 0px 2px #888;
+    min-width: 100%;
+    font-size: 13px;
+}
