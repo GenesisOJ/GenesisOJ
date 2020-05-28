@@ -1,12 +1,14 @@
-  <div id="topBar">
+ <div id="topBar">
     <div style="padding-left: 10px;">
       <div id="devPanel" style="display: inline-block; padding-left: 15px; font-size: 14px; height: 100%;">
         <div id="devPanelCheats">
-          <a href="/" onclick="">GenesisOJ</a>
+          <font size="5" face="verdana" color="blue"><a href="/" onclick="">GenesisOJ</a></font>
            |
           <a href="/problem/list.php" onclick="">题目列表</a>
            |
           <a href="#" onclick="">讨论</a>
+		       |
+          <a href="#" onclick="">比赛</a>
         </div>
       </div>
     </div>
