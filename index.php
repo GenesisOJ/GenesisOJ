@@ -9,7 +9,6 @@
       <div style="float:left;width:1%;">&nbsp;</div>
       <div style="float:left;width:68%;">
         <div id="" style="border: 1px solid gray;"><?php include "./template/bulletin.php" ?></div>
-        <br/><div id="" style="border: 1px solid gray;"><center><?php include "./template/footer.php" ?></center></div>
       </div>
       <div style="float:left;width:1%;">&nbsp;</div>
       <div style="float:left;width:29%;">
@@ -22,6 +21,8 @@
         ?>
         </div>
       </div>
+      <div style="float:left;width:100%;"><br/></div>
+      <div id="footer" style="float:left;width:100%;border: 1px solid gray;"><center><?php include "./template/footer.php" ?></center></div>
     </div>
   </body>
 </html>
