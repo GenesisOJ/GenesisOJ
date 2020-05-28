@@ -7,7 +7,7 @@
           <a href="/problem/list.php" onclick="">题目列表</a>
            |
           <a href="#" onclick="">讨论</a>
-		       |
+           |
           <a href="#" onclick="">比赛</a>
         </div>
       </div>
