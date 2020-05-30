@@ -12,9 +12,8 @@
   <center>
     <h1>404 - Not Found</h1>
     <h2>该页面在GenesisOJ上找不到了</h2>
-	<li><a href="/" data-toggle="tab">返回GenesisOJ首页 </a></li>
     <p><font size="2">
-      Copyright(C)GenesisOJ 2020 - <?php echo date("Y")?> <br>
+      Copyright(C)GenesisOJ 2020 - <?php echo date("Y")?>. All Rights Reserved. <br>
     </font></p>
   </center>
         </div>
