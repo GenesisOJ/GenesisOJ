@@ -31,7 +31,7 @@
 	站长邮箱:flamesheart@qq.com
 	</p>
     <p><font size="2">
-      Copyright(C)GenesisOJ 2020 - <?php echo date("Y")?> <br>
+      Copyright(C)GenesisOJ 2020 - <?php echo date("Y")?>. All Rights Reserved.<br>
     </font></p>
   </center>
         </div>
