@@ -7,14 +7,14 @@
           <a href="/problem/list.php" onclick="">题目列表</a>
            |
           <a href="#" onclick="">讨论</a>
-           |
+		   |
           <a href="#" onclick="">比赛</a>
         </div>
       </div>
     </div>
     <div id="headerLinks" style="position: absolute; top: 0; right: 10px; float: right;">
       <div class="links-block" style="padding-top:3px;display:inline-block;">
-        <a href="#" onclick="">常见问题</a>
+        <a href="/faq.php" onclick="">关于我们</a>
          |
         <a href="#" onclick="">排行榜</a>
         <?php if($_COOKIE["uid"]=="") { ?>
