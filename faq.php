@@ -14,7 +14,7 @@
     <h3>1.捐赠事宜</h3>
 	<p>本网站为非盈利网站，在您使用本网站期间不收取您的任何费用。<br>为了本网站的可持续性发展，GenesisOJ维护者们需要支付“域名、服务器、题目更新以及安全防护“等费用。<br>
 	如果您可以为我们捐款,我们将衷心感谢您！下面是捐款码，您扫码即可为我们捐款。特别提醒：在捐赠信息中一定注明您在本网站的用户名<br>
-	<img src="/feed.jpg"  alt="给我们投食" /><br>
+	<a href="https://sm.ms/image/tlMSEFsKNpTki8V" target="_blank"><img src="https://i.loli.net/2020/05/31/tlMSEFsKNpTki8V.jpg" ></a><br>
 	如您对捐赠有疑问，请发送邮件至flamesheart@qq.com,谢谢！
 	</p>
 	<h3>2.系统简述</h3>
