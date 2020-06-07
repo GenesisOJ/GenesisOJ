@@ -29,7 +29,6 @@
 	<p>flamesheart, jyb666, jiayouba, ytha等</p>
 	<h4>3.3开源&用户</h4>
 	GenesisOJ为开源项目，项目地址：https://github.com/GenesisOJ/GenesisOJ ，自行上传，不提供安装脚本等工具<br>
-	用户群:1087144279
 	<h4>3.4其他事宜</h4>
 	<p>因我们编写水平有限，网站维护、界面设计、网站安全等部分功能开发尚不成熟，如有疑问或建议，请联系通过站长邮箱进行联系<br>
 	站长邮箱:flamesheart@qq.com
